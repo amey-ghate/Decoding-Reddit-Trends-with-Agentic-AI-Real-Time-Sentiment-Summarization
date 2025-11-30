@@ -1,0 +1,8 @@
+streamlit 
+requests 
+langgraph 
+openai 
+matplotlib 
+pandas
+nltk
+python-dotenv
