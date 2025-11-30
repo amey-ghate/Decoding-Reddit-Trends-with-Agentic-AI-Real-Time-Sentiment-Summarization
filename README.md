@@ -65,7 +65,7 @@ Follow these steps to get your local copy up and running.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/reddit-sentiment-agent.git](https://github.com/yourusername/reddit-sentiment-agent.git)
+    git clone [https://github.com/amey-ghate/Decoding-Reddit-Trends-with-Agentic-AI-Real-Time-Sentiment-Summarization.git]
     cd reddit-sentiment-agent
     ```
 
