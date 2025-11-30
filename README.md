@@ -115,5 +115,3 @@ Follow these steps to get your local copy up and running.
 * **User Filtering:** Option to filter comments by Reddit user or karma score.
 * **Export Options:** Allow users to export results as CSV or JSON.
 * **More LLM Options:** Integrate support for other LLMs (e.g., Llama 3 via Groq) for varied performance and cost.
-
-```http://googleusercontent.com/image_generation_content/3
